@@ -1,0 +1,14 @@
+/* css global, terá em todas as páginas */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'League Spartan', sans-serif;
+}
+
+body{
+  background-color: #2A363B;
+  overflow-x: hidden;
+  color: #fff;
+}
+
