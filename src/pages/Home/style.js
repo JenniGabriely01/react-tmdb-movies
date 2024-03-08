@@ -111,8 +111,9 @@ nav{
  
 .topics{
  
-    width: 70%;
+    /* width: 70%; */
     display: flex;
+    justify-content: end;
  
 }
  
@@ -120,6 +121,7 @@ li{
  
     display: inline-block;
     margin: 0 1.5em;
+    padding: 0 20px;
     font-weight: bold;
     cursor: pointer;
     font-size: 1.2rem;

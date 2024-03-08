@@ -140,7 +140,7 @@ export const Container = styled.div`
 
 .btn{
   display: flex;
-  max-width: 40%;
+  /* max-width: 40%; */
   margin-top: 4%;
 
 }
@@ -151,10 +151,10 @@ export const Container = styled.div`
   text-align: center;
   font-size: 1.2em;
   border-radius: 10px;
-  padding: 10% 9%;
   border: none;
   color: #fff;
-  width: 7rem;
+  width: 7.5rem;
+  height: 3rem;
   transition: all 0.3s;
   font-weight: bold;
 }
@@ -173,14 +173,13 @@ export const Container = styled.div`
   text-align: center;
   font-size: 1.2em;
   border-radius: 10px;
-  padding: 3% 8%;
   color: #fff;
   transition: all 0.3s;
   font-weight: bold;
   border: none;
   border: 2px solid transparent; 
-
-
+  width: 7.5rem;
+  height: 3rem;
 }
 
 .btn-assistir:hover {
