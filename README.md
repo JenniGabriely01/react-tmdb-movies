@@ -23,7 +23,10 @@ No terminal, clone o projeto:
 ```
 git clone https://github.com/JenniGabriely01/react-tmdb-movies.git
 ```
-
-Ainda no terminal inicialize o projeto:
+Intale o node modules
+```
+npm install
+```
+Ainda no terminal, inicialize o projeto:
 ```
 npm start
